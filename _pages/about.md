@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-我是张国梁
+hello，everyone！！
 
 A data-driven personal website
 ======
