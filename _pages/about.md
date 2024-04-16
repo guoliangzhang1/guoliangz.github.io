@@ -14,9 +14,9 @@ I am very fortunate to be advised by [Prof. BI Jingxue ]of Indoor and outdoor in
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Version Control Theory, WuHan University, 2027 (expected)
+* M.S. in Shandong, Shandong Jianzhu University, 2024
+* B.S. in Shandong, Shandong Jianzhu University, 2018
 
 Work experience
 ======
