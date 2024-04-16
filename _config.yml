@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Guoliang Zhang"
   pronouns         : # example: "she/her"  
- # bio              : "Short biography for the left-hand sidebar"
+  bio              : "The world is so big, yet I owe it a visit."
   location         : "Shandong,CHINA"
   employer         : "Shandong Jianzhu University"
   uri              : # URL
