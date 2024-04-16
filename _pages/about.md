@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 hello，everyone！！welcome to my Chanel！阿里嘎多！
+======
 I'm a  student from Shandong Jianzhu University [School of Surveying and Geo-Informatics](https://www.sdjzu.edu.cn/cedlxx/index.htm), [Shandong Jianzhu University](https://www.sdjzu.edu.cn/).    My research Indoor multi-source hybrid intelligent positioning and integrated navigation.
 I am very fortunate to be advised by [Prof. BI Jingxue ]of Indoor and outdoor intelligent perception and navigation Lab from [School of Surveying and Geo-Informatics](https://www.sdjzu.edu.cn/cedlxx/index.htm), Shandong Jianzhu University.  I was advised by [Prof. BI Jingxue] from [School of Surveying and Geo-Informatics], Shandong Jianzhu University.
 A data-driven personal website
