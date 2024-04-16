@@ -11,6 +11,7 @@ hello，everyone！！welcome to my Chanel！阿里嘎多！
 ======
 I'm a  student from Shandong Jianzhu University [School of Surveying and Geo-Informatics](https://www.sdjzu.edu.cn/cedlxx/index.htm), [Shandong Jianzhu University](https://www.sdjzu.edu.cn/).    My research Indoor multi-source hybrid intelligent positioning and integrated navigation.
 I am very fortunate to be advised by [Prof. BI Jingxue ]of Indoor and outdoor intelligent perception and navigation Lab from [School of Surveying and Geo-Informatics](https://www.sdjzu.edu.cn/cedlxx/index.htm), Shandong Jianzhu University.  I was advised by [Prof. BI Jingxue] from [School of Surveying and Geo-Informatics], Shandong Jianzhu University.
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
