@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "111.png"
   name             : "Guoliang Zhang"
   pronouns         : # example: "she/her"  
   bio              : "The world is so big, yet I owe it a visit."
