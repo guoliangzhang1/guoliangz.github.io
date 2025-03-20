@@ -14,22 +14,18 @@ redirect_from:
 * XXXXXXX
 * XXXXXXX
 * XXXXXXX
-<h3>招生信息</h3>
+<h3>招生信息(Enrollment)</h3>
 ***
 * XXXXXXX
 * XXXXXXX
 * XXXXXXX
 
-### 招生信息 (Enrollment)
-***
-* XXXXXXX
-* XXXXXXX
-* XXXXXXX
 ### 教育经历 (Education)
 ***
 * XXXXXXX
 * XXXXXXX
 * XXXXXXX
+
 ### 科研项目 (Fundings)
 ***
 * 国家自然科学基金青年项目，基于智能手机WiFi/气压计/IMU的室内三维自适应高精度定位方法，42001397，2021.01-2023.12，主持。
