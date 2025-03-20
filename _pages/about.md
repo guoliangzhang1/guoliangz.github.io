@@ -14,6 +14,12 @@ redirect_from:
 * XXXXXXX
 * XXXXXXX
 * XXXXXXX
+<h3>招生信息</h3>
+***
+* XXXXXXX
+* XXXXXXX
+* XXXXXXX
+
 ### 招生信息 (Enrollment)
 ***
 * XXXXXXX
