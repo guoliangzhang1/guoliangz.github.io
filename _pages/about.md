@@ -32,7 +32,7 @@ redirect_from:
  
 ### 代表论著 (Papers)
 <div style="display: flex; gap: 20px; align-items: center;">
-  <img src="../images/简历.png" style="width: 40%; max-width: 400px; height: auto;" />
+  <img src="../image/lunwen.png" style="width: 40%; max-width: 400px; height: auto;" />
   <div style="flex: 1;">
     <h3></h3>
     <p>PSOSVRPos: WiFi indoor positioning using SVR optimized by PSO</p>
