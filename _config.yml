@@ -22,13 +22,13 @@ repository               : "https://guoliangzhang1.github.io/guoliangz.github.io
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "张国梁(GuoliangZhang)"
+  name             : "毕京学(JingxueBi)"
   pronouns         : # example: "she/her"  
   bio              : "The world is so big, yet I owe it a visit."
   location         : "Shandong,CHINA"
   employer         : "Shandong Jianzhu University"
   uri              : # URL
-  email            : "guoliangz860@gmail.com" 
+  email            : "bijingxue19@sdjzu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
